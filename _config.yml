@@ -2,6 +2,6 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 title: AJI
-tagline: my document
-description: My awesome new site via <a href="https://tinypress.co/" target="_blank">Tinypress</a>
+tagline: 
+description: my document 
 paginate: 1
