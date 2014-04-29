@@ -1,6 +1,5 @@
 ---
 published: true
-title: favorite
+title: ...
 layout: post
 ---
-jeju, family, simple, web, frontend, Daum, sleep ..
